@@ -1,2 +1,0 @@
-# apa-yaa
-ntahh
