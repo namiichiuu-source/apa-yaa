@@ -1,0 +1,75 @@
+@font-face {
+    font-family: pixel;
+    src: url(yayaya/Minecraft.ttf);
+}
+
+#header {
+    width: 430px;
+    height: 28px;
+    background-image: url(yayaya/°。°。°。.jpeg);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 2em;
+    text-align: center;
+    border: solid;
+    font-family: pixel;
+    font-size: 9px;
+}
+
+#content {
+    width: 430px;
+    height: 310px;
+    background-color: #DCEEFF;
+    background-image: url(yayaya/°。°。°。.jpeg);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 2em;
+    text-align: center;
+    border: solid;
+    font-family: pixel;
+}
+
+#footer {
+    background-image: url(yayaya/°。°。°。.jpeg);
+    height: 20px;
+    width: 430px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 2em;
+    border: black solid;
+}
+
+button {
+    height: 30px;
+    width:150px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2em;
+    background-color: #C0C0C0;
+    border: 5px outset #A9A9A9;
+    font-family: pixel;
+}
+
+.btn-wrap {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: #fdfeffd4;
+    transform: scale(0.95);
+}
+
+
+body {
+    background-color: #C0C0C0;
+}
